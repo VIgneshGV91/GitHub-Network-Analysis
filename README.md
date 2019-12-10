@@ -1,7 +1,7 @@
 # GitHub-Network-Analysis
 Network Analysis of GitHub Developers Community 
 
-Abstract:
+ABSTRACT:
 GitHub has evolved from coding repository to a social network of developers for different types of development projects. There are 37 million users and 100 million repositories. One of interesting of GitHub apart from code repository is the follow developer and creators across the globe. This feature adds the network nature and structure for the GitHub.
 
 OBJECTIVE
